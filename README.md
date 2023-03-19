@@ -17,6 +17,7 @@ All the code is contained within **Segment_height_estimation.ipynb**. Image exam
 * The card on forehead is detected using HSV and Adaptive thresholding.
 * Rifining the card dimensions using thresholding for more accurate results.
 * Canny edge filter is used for eyeglass edge detection.
+* 41st and 47th facial attributes amongst the 68 given by dlib relate to pupil edge.
 * The segment height is calculated in terms of pixels using Euclidean distance.
 * The width of a credit card is 8.56 cm.
 * This data along with scaling formula is used to calculate the segment in cm.

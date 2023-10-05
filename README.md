@@ -1,4 +1,4 @@
-# Jain Software SLA Task 2 
+# Progressive & Bifocal segment height estimation using OpenCV
 
 ### Calculating progressive and bifocal segment height of eyeglass in cm using card on forehead
 

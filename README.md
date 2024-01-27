@@ -1,6 +1,6 @@
 # Progressive & Bifocal segment height estimation using OpenCV
 
-### Calculating progressive and bifocal segment height of eyeglass in cm using card on forehead
+## Calculating progressive and bifocal segment height of eyeglass in cm using card on forehead
 
 By : [Tanishq Selot](https://github.com/tanishq150802)
 
@@ -12,7 +12,7 @@ By : [Tanishq Selot](https://github.com/tanishq150802)
 
 All the code is contained within **Segment_height_estimation.ipynb**. Image examples are attached.
 
-### Steps
+## Steps
 
 * The card on forehead is detected using HSV and Adaptive thresholding.
 * Rifining the card dimensions using thresholding for more accurate results.
@@ -22,7 +22,7 @@ All the code is contained within **Segment_height_estimation.ipynb**. Image exam
 * The width of a credit card is 8.56 cm.
 * This data along with scaling formula is used to calculate the segment in cm.
 
-### Example
+## Example
 
 Normal Image             |  Progressive Segment height |  Bifocal Segment height
 :-------------------------:|:-------------------------: |:-------------------------:
